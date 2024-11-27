@@ -1,0 +1,11 @@
+Requirements:
+Python 3.x
+
+
+Must have libraries :
+qrcode: For generating QR codes.
+Pillow: For handling QR code images (optional).
+
+
+Insatll dependencies using : 
+pip install qrcode[pil]
