@@ -1,0 +1,3 @@
+In pyhton to Display QR Code:
+Use the Pillow library to display the QR code directly after generation
+img.show()
