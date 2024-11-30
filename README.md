@@ -30,5 +30,5 @@ Enter the URL to generate a QR code: https://www.example.com
 - Display the QR code directly using `Pillow`.
 - Accept multiple URLs and generate multiple QR codes in one run.
 
-
-
+## SIDDHARTH RAGHUNATHA SHETTY
+Developer and Maintainer
